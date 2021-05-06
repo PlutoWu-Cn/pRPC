@@ -1,0 +1,2 @@
+netty=cn.plutowu.remoting.transport.netty.client.NettyRpcClient
+socket=cn.plutowu.remoting.transport.socket.SocketRpcClient

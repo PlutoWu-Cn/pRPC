@@ -1,0 +1,1 @@
+loadBalance=cn.plutowu.loadbalance.loadbalancer.ConsistentHashLoadBalance

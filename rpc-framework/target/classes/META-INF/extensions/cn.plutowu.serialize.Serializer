@@ -1,0 +1,2 @@
+kyro=cn.plutowu.serialize.kyro.KryoSerializer
+protostuff=cn.plutowu.serialize.protostuff.ProtostuffSerializer
